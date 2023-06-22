@@ -20,3 +20,6 @@ db.supplier.insertOne({
     // https://www.npmjs.com/package/bson
 
     // https://github.com/OllinDesigns/sprint1-node-cibernarium-edgarG
+
+let uri = 'mongodb+srv://ollinDesigns:claveParaAtlas@cluster0.1b2ylxi.mongodb.net/?retryWrites=true&w=majority'
+    
